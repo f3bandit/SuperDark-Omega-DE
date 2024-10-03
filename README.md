@@ -2,12 +2,20 @@
 
 # SuperDark-DE for Ez-Flash Omega Definitive Edition
 # A fork of Simple-DE by Sterophonick
-<img src="https://gbatemp.net/attachments/cart_boot_option-png.447362" width="128"/>
-
+<img src="https://gbatemp.net/attachments/cart_boot_option-png.447362" width="128"/><img src="https://gbatemp.net/attachments/cheat_list-png.447363" width="128"/><img src="https://gbatemp.net/attachments/cheats_icon-png.447364" width="128"/>
+<img src="https://gbatemp.net/attachments/game_list_title_image_off-png.447365" width="128"/><img src="https://gbatemp.net/attachments/game_list_title_image_on-png.447366" width="128"/><img src="https://gbatemp.net/attachments/gb_icon-png.447367" width="128"/>
+<img src="https://gbatemp.net/attachments/gba_icon-png.447368" width="128"/><img src="https://gbatemp.net/attachments/gbc_icon-png.447369" width="128"/><img src="https://gbatemp.net/attachments/image_icon-png.447370" width="128"/>
+<img src="https://gbatemp.net/attachments/nes_icon-png.447371" width="128"/><img src="https://gbatemp.net/attachments/nor-flash-png.447372" width="128"/><img src="https://gbatemp.net/attachments/plugin_icon-png.447373" width="128"/>
+<img src="https://gbatemp.net/attachments/recent_list-png.447374" width="128"/><img src="https://gbatemp.net/attachments/save_icon_esv-png.447375" width="128"/><img src="https://gbatemp.net/attachments/save_icon_rts-png.447376" width="128"/>
+<img src="https://gbatemp.net/attachments/settings_a-png.447377" width="128"/>
+<img src="https://gbatemp.net/attachments/settings_b-png.447378" width="128"/>
 
 If you are looking for Simple-Light for the Ez-Flash Omega and the Omega Definitive Edition
 Official forum thread for Simple-Light and Simple-DE:
 https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665/
+
+<img src="https://gbatemp.net/attachments/457315-1-png.459658" width="128"/>
+
 
 Sterophonick Github
 
@@ -16,6 +24,8 @@ https://github.com/Sterophonick/SimpleLight
 
 Omega-DE
 https://github.com/Sterophonick/omega-de-kernel
+
+<img src="https://gbatemp.net/attachments/14646-1-png.459659" width="128"/>
 
 Ez-Flash official downloads
 
