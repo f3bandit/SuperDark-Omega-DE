@@ -1,21 +1,9 @@
 ###### FORKED FROM https://github.com/ez-flash/omega-de-kernel
 
-# SimpleLight for EZ Flash Omega Definitive Edition
-###### *If you're looking for SimpleLight for the **original** EZ Flash Omega, check here: https://github.com/Sterophonick/SimpleLight*
+# SuperDark-DE for EZ Flash Omega Definitive Edition
+# A fork of Simple-DE by Sterophonick
 
-Hello all!
-
-I have been working on a new theme for the EZ-Flash Omega, and I call it Simple.
-
-It is a nice rounded theme with both light and dark options, and allows for many, many more file types to be used, such as Master System and ZX Spectrum ROMs to be launched, along with the ability to view bitmap images, read text documents, and play music. (shoutouts to Kuwanger for PogoShell)
-
-I completely redid all of the graphics, along with using a different font.
-
-It also uses the 2019-05-04 version of Goomba Color, and has a save backup feature (shoutouts to Veikkos)
-
-Hope everyone likes it!
-
-Official forum thread:
+Official forum thread for Simple-DE:
 https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665/
 
 ## Installation instructions:
