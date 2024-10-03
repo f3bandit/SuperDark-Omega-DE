@@ -5,13 +5,13 @@
 <img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/SPLASH.png" width="128"/>
 
 # A fork of Simple-DE by Sterophonick
-<img src="https://gbatemp.net/attachments/cart_boot_option-png.447362" width="128"/><img src="https://gbatemp.net/attachments/cheat_list-png.447363" width="128"/><img src="https://gbatemp.net/attachments/cheats_icon-png.447364" width="128"/>
-<img src="https://gbatemp.net/attachments/game_list_title_image_off-png.447365" width="128"/><img src="https://gbatemp.net/attachments/game_list_title_image_on-png.447366" width="128"/><img src="https://gbatemp.net/attachments/gb_icon-png.447367" width="128"/>
-<img src="https://gbatemp.net/attachments/gba_icon-png.447368" width="128"/><img src="https://gbatemp.net/attachments/gbc_icon-png.447369" width="128"/><img src="https://gbatemp.net/attachments/image_icon-png.447370" width="128"/>
-<img src="https://gbatemp.net/attachments/nes_icon-png.447371" width="128"/><img src="https://gbatemp.net/attachments/nor-flash-png.447372" width="128"/><img src="https://gbatemp.net/attachments/plugin_icon-png.447373" width="128"/>
-<img src="https://gbatemp.net/attachments/recent_list-png.447374" width="128"/><img src="https://gbatemp.net/attachments/save_icon_esv-png.447375" width="128"/><img src="https://gbatemp.net/attachments/save_icon_rts-png.447376" width="128"/>
-<img src="https://gbatemp.net/attachments/settings_a-png.447377" width="128"/>
-<img src="https://gbatemp.net/attachments/settings_b-png.447378" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Cart_Boot_Option.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Cheat_List.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Cheats_icon.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/GBA_Icon.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/GBC_Icon.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/GB_Icon.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Game_List_Title_Image_OFF.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Game_List_Title_Image_ON.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Image_Icon.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/NES_Icon.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/NOR%20Flash.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Plugin_Icon.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Recent_List.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Save_Icon_ESV.png" width="128"/><img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Save_Icon_RTS.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Settings_A.png" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Settings_B.png" width="128"/>
 
 If you are looking for Simple-Light for the Ez-Flash Omega and the Omega Definitive Edition
 Official forum thread for Simple-Light and Simple-DE:
