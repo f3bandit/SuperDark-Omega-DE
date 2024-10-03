@@ -159,7 +159,7 @@ const char zh_set_btn[]="ÉèÖÃ";
 const char zh_ok_btn[]="±£´æ";
 const char zh_formatnor_info[]="È·¶¨?´óÔ¼4·ÖÖÓ";
 
-const char zh_theme_credit[]="Superdark DE K1.04";
+const char zh_theme_credit[]="SuperDark-DE";
 const char zh_theme_credit2[]="f3bandit";
 const char zh_theme_credit3[]="Based on Simple DE";
 const char zh_theme_credit4[]="Sterophonick";
@@ -290,7 +290,7 @@ const char en_ok_btn[]=" OK";
 const char en_formatnor_info1[]="Are you sure?";
 const char en_formatnor_info2[]="This will take a while.";
 
-const char en_theme_credit[]="Superdark DE K1.04";
+const char en_theme_credit[]="SuperDark-DE";
 const char en_theme_credit2[]="f3bandit";
 const char en_theme_credit3[]="based on Simple DE";
 const char en_theme_credit4[]="Sterophonick";
