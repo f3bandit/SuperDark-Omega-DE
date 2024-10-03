@@ -2,8 +2,7 @@
 
 # SuperDark-DE for Ez-Flash Omega Definitive Edition
 # A fork of Simple-DE by Sterophonick
-Omega 
-https://github.com/Sterophonick/SimpleLight
+<img src="https://gbatemp.net/attachments/cart_boot_option-png.447362" width="128"/>
 
 
 If you are looking for Simple-Light for the Ez-Flash Omega and the Omega Definitive Edition
