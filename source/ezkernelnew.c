@@ -151,23 +151,27 @@ u16 gl_SD_G;
 u16 gl_SD_B;
 
 
+// This sections sets the colors for the following properties
+// text, button, selected, background, etc.
+// search keyword RGB for other color
+// settings in this file.
 //----------------------------------------
-u16 gl_color_selected = RGB(00, 20, 26);
+u16 gl_color_selected = RGB(31, 0, 0);
 #ifdef DARK
 u16 gl_color_text = RGB(31, 31, 31);
-u16 gl_color_selectBG_sd = RGB(15, 15, 31);
-u16 gl_color_selectBG_nor = RGB(18, 3, 3);
-u16 gl_color_MENU_btn = RGB(00, 19, 29);
+u16 gl_color_selectBG_sd = RGB(31, 0, 0);
+u16 gl_color_selectBG_nor = RGB(0, 0, 0);
+u16 gl_color_MENU_btn = RGB(10, 10, 10);
 #else
-u16 gl_color_text = RGB(00, 00, 00);
-u16 gl_color_selectBG_sd = RGB(19, 19, 31);
-u16 gl_color_selectBG_nor = RGB(15, 28, 7);
-u16 gl_color_MENU_btn = RGB(23, 23, 23);
+u16 gl_color_text = RGB(31, 31, 31);
+u16 gl_color_selectBG_sd = RGB(31, 0, 0);
+u16 gl_color_selectBG_nor = RGB(31, 0, 0);
+u16 gl_color_MENU_btn = RGB(10, 10, 10);
 #endif
-u16 gl_color_cheat_count = RGB(00, 31, 00);
-u16 gl_color_cheat_black = RGB(00, 00, 00);
-u16 gl_color_NORFULL = RGB(31, 00, 00);
-u16 gl_color_btn_clean = RGB(8, 8, 31);
+u16 gl_color_cheat_count = RGB(31, 31, 31);
+u16 gl_color_cheat_black = RGB(0, 0, 0);
+u16 gl_color_NORFULL = RGB(0, 0, 0);
+u16 gl_color_btn_clean = RGB(31, 0, 0);
 u16 SAV_info_buffer [0x200]EWRAM_BSS;
 //******************************************************************************
 void delay(u32 R0)
