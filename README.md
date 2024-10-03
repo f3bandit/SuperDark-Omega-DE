@@ -1,10 +1,36 @@
 ###### FORKED FROM https://github.com/ez-flash/omega-de-kernel
 
-# SuperDark-DE for EZ Flash Omega Definitive Edition
+# SuperDark-DE for Ez-Flash Omega Definitive Edition
 # A fork of Simple-DE by Sterophonick
+https://gbatemp.net/attachments/cart_boot_option-png.447362/https://gbatemp.net/attachments/cheat_list-png.447363/https://gbatemp.net/attachments/cheats_icon-png.447364/https://gbatemp.net/attachments/game_list_title_image_off-png.447365/https://gbatemp.net/attachments/game_list_title_image_on-png.447366/https://gbatemp.net/attachments/game_list_title_image_on-png.447366/https://gbatemp.net/attachments/gb_icon-png.447367/https://gbatemp.net/attachments/gba_icon-png.447368/https://gbatemp.net/attachments/nor-flash-png.447372/https://gbatemp.net/attachments/plugin_icon-png.447373/https://gbatemp.net/attachments/recent_list-png.447374/https://gbatemp.net/attachments/save_icon_esv-png.447375/https://gbatemp.net/attachments/save_icon_rts-png.447376/https://gbatemp.net/attachments/settings_a-png.447377/https://gbatemp.net/attachments/settings_b-png.447378/
 
-Official forum thread for Simple-DE:
+
+If you are looking for Simple-Light for the Ez-Flash Omega and the Omega Definitive Edition
+Official forum thread for Simple-Light and Simple-DE:
 https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665/
+
+Sterophonick Github
+
+Omega 
+https://github.com/Sterophonick/SimpleLight
+
+Omega-DE
+https://github.com/Sterophonick/omega-de-kernel
+
+Ez-Flash official downloads
+
+https://www.ezflash.cn/download/
+
+Ez-Flash Github
+
+Omega
+https://github.com/ez-flash/omega-kernel
+
+Omega-DE
+https://github.com/ez-flash/omega-de-kernel
+
+
+
 
 ## Installation instructions:
 
