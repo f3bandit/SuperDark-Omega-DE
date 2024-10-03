@@ -44,9 +44,8 @@ https://github.com/ez-flash/omega-de-kernel
 
 ## Installation instructions:
 
-_**Be sure you're using the most recent version, and follow the installation instructions in the !!!!!!!!!IMPORTANT!!!!!!!!!!!.TXT file in the GBAtemp package before reporting issues.**_
 
-_**ALSO YOU MUST USE THE OFFICIAL KERNEL TO UPDATE THE FIRMWARE; THIS DOES NOT APPLY TO THE BASE OMEGA :(**_
+_**YOU MUST USE THE OFFICIAL KERNEL TO UPDATE THE FIRMWARE :(**_
 
 1. Copy the SYSTEM and BACKUP folder to the root of the SD Card.
 2. Move your IMGS, SAVER, RTS, and PATCH folders to SYSTEM.
