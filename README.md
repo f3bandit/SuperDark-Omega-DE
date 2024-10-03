@@ -2,7 +2,7 @@
 
 # SuperDark-DE for Ez-Flash Omega Definitive Edition
 
-<img src="https://gbatemp.net/attachments/splash-jpg.447361" width="128"/>
+<img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/SPLASH.png" width="128"/>
 
 # A fork of Simple-DE by Sterophonick
 <img src="https://gbatemp.net/attachments/cart_boot_option-png.447362" width="128"/><img src="https://gbatemp.net/attachments/cheat_list-png.447363" width="128"/><img src="https://gbatemp.net/attachments/cheats_icon-png.447364" width="128"/>
