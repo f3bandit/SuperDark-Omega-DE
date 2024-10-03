@@ -63,6 +63,23 @@ gl_theme_credit2 = (char*)en_theme_credit2;
 gl_theme_credit3 = (char*)en_theme_credit3;
 gl_theme_credit4 = (char*)en_theme_credit4;
 
+helpwindow.c
+
+Between 55 and 58
+DrawHZText12(gl_theme_credit, 0, 4, 90, gl_color_selected, 1);
+DrawHZText12(gl_theme_credit2, 0, 4, 105, gl_color_selected, 1);
+DrawHZText12(gl_theme_credit3, 0, 4, 120, gl_color_selected, 1);
+DrawHZText12(gl_theme_credit4, 0, 4, 135, gl_color_selected, 1);
+
+lang.h
+
+btween 10 and 13
+extern char* gl_theme_credit;
+extern char* gl_theme_credit2;
+extern char* gl_theme_credit3;
+extern char* gl_theme_credit4;
+
+
 Kernel version
 
 helpwindow.c in sources folder
