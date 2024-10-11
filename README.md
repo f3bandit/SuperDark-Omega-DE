@@ -16,7 +16,7 @@
 
 
 
-If you are looking for Simple-Light or Simple-DE for the Ez-Flash Omega and the Omega Definitive Edition Official forum thread for Simple-Light and Simple-DE:
+If you are looking for Simple or Simple-DE for the Ez-Flash Omega and the Omega Definitive Edition Official forum thread for Simple and Simple-DE:
 [https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665](https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665)
 
 
@@ -35,8 +35,8 @@ Omega-DE
 
 Ez-Flash official downloads
 
-[https://www.ezflash.cn/download](https://www.ezflash.cn/download/
-)
+[https://www.ezflash.cn/download](https://www.ezflash.cn/download)
+
 
 Ez-Flash Github
 
@@ -57,7 +57,7 @@ _**YOU MUST USE THE OFFICIAL KERNEL TO UPDATE THE FIRMWARE :(**_
 1. Copy the SYSTEM and BACKUP folder to the root of the SD Card.
 2. Move your IMGS, SAVER, RTS, and PATCH folders to SYSTEM.
 3. If you want the light theme, copy ezkernel-light.bin to the root of the SD Card. If you want the dark thing, do the same with ezkernel-dark.bin
-4. Rename the new kernel file to ezkernel.bin
+4. Rename the new kernel file to ezkernelnew.bin
 5. You're done!
 
 ## Registered file types:
