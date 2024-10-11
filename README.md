@@ -1,4 +1,4 @@
-###### FORKED FROM [https://github.com/ez-flash/omega-de-kernel](https://github.com/Sterophonick/omega-de-kernel)
+###### FORKED FROM [https://github.com/Sterophonick/omega-de-kernel](https://github.com/Sterophonick/omega-de-kernel)
 
 # SuperDark-DE for Ez-Flash Omega Definitive Edition
 
