@@ -1,4 +1,4 @@
-###### FORKED FROM https://github.com/ez-flash/omega-de-kernel
+###### FORKED FROM [[https://github.com/ez-flash/omega-de-kernel](https://github.com/Sterophonick/omega-de-kernel)
 
 # SuperDark-DE for Ez-Flash Omega Definitive Edition
 
@@ -15,7 +15,7 @@
 
 If you are looking for Simple-Light for the Ez-Flash Omega and the Omega Definitive Edition
 Official forum thread for Simple-Light and Simple-DE:
-https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665/
+[https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665](https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665)
 
 <img src="https://gbatemp.net/attachments/457315-1-png.459658" width="128"/>
 
@@ -23,24 +23,25 @@ https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665/
 Sterophonick Github
 
 Omega 
-https://github.com/Sterophonick/SimpleLight
+[https://github.com/Sterophonick/SimpleLight](https://github.com/Sterophonick/SimpleLight)
 
 Omega-DE
-https://github.com/Sterophonick/omega-de-kernel
+[https://github.com/Sterophonick/omega-de-kernel](https://github.com/Sterophonick/omega-de-kernel)
 
 <img src="https://gbatemp.net/attachments/14646-1-png.459659" width="128"/>
 
 Ez-Flash official downloads
 
-https://www.ezflash.cn/download/
+[https://www.ezflash.cn/download](https://www.ezflash.cn/download/
+)
 
 Ez-Flash Github
 
 Omega
-https://github.com/ez-flash/omega-kernel
+[https://github.com/ez-flash/omega-kernel](https://github.com/ez-flash/omega-kernel)
 
 Omega-DE
-https://github.com/ez-flash/omega-de-kernel
+[https://github.com/ez-flash/omega-de-kernel](https://github.com/ez-flash/omega-de-kernel)
 
 
 
@@ -149,8 +150,8 @@ Rocky5
 
 ### Credits
 [EZ-FLASH](https://www.ezflash.cn/) - The original firmware & hardware creators\
-Kuwanger - PogoShell plugin integration\
-Sterophonick - SIMPLE theme for EZO & EZODE\
+Kuwanger - PogoShell plugin integration
+[Sterophonick](https://gbatemp.net/members/sterophonick.457315/) - SIMPLE theme for EZO & EZODE
 fluBBa - SMSAdvance, MSXAdvance, Cologne for GBA, Goomba for GBA (Original), PCEAdvance, PocketNES, SNESAdvance, Wasabi, NGPAdvance, SwanAdvance\
 [Jaga](https://github.com/EvilJagaGenius) - [Jaga's Goomba Color fork](https://github.com/EvilJagaGenius/jagoombacolor)\
 ...and others!
