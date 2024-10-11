@@ -14,6 +14,8 @@
 <img src="https://github.com/f3bandit/SuperDark-Omega-DE/blob/main/screenshots/Settings_B.png" width="128"/>
 
 
+
+
 If you are looking for Simple-Light or Simple-DE for the Ez-Flash Omega and the Omega Definitive Edition Official forum thread for Simple-Light and Simple-DE:
 [https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665](https://gbatemp.net/threads/new-theme-for-ez-flash-omega.520665)
 
