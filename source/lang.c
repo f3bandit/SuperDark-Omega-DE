@@ -189,7 +189,7 @@ const char zh_SELECT_help[]="¸ü¶àÑ¡Ïî";
 const char zh_L_A_help[]="·´×ªÀäÆô¶¯Ñ¡Ïî";
 const char zh_LSTART_help[]="É¾³ýÎÄ¼þ";
 const char zh_LSELECT_help[]="É¾³ý±£´æÎÄ¼þ";
-const char zh_online_manual[]="  ÔÚÏßËµÃ÷Êé";
+const char zh_online_manual[]="Github";
 
 const char zh_no_game_played[]="×î½ü»¹Ã»Íæ¹ýÓÎÏ·";
 
@@ -320,7 +320,7 @@ const char en_SELECT_help[]="More options";
 const char en_L_A_help[]="Invert cold start option";
 const char en_LSTART_help[]="Delete file";
 const char en_LSELECT_help[]="Delete save file";
-const char en_online_manual[]="Online manual";
+const char en_online_manual[]="Github";
 
 const char en_no_game_played[]="No recently played games yet...";
 
