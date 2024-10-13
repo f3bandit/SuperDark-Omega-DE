@@ -43,7 +43,10 @@
 #include "light/icon_chip.h"
 #endif
 
-
+#include "icon_plug.h"
+#include "icon_sys.h"
+#include "icon_sav.h"
+#include "icon_cht.h"
 #include "icon_CV.h"
 #include "icon_MSX.h"
 #include "icon_GG.h"
@@ -71,6 +74,7 @@
 #include "icon_gba.h"
 #include "icon_folder.h"
 #include "icon_other.h"
+#include "icon_pat.h"
 #include "Chinese_manual.h"
 #include "English_manual.h"
 
@@ -81,6 +85,8 @@
 
 #include "goomba.h"
 #include "pocketnes.h"
+
+
 
 u32 list_game_total;
 
@@ -371,16 +377,28 @@ void Show_ICON_filename_SD(u32 show_offset,u32 file_select,u32 haveThumbnail)
 			icon = (u16*)(gImage_icon_FC);
 		}
 		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "bin")) { //.bin file
-			icon = (u16*)(gImage_icon_EXE);
+			icon = (u16*)(gImage_icon_sys);
 		}
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "pat")) { //.pat file
+			icon = (u16*)(gImage_icon_pat);
+		}
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "sav")) { //.sav file
+			icon = (u16*)(gImage_icon_sav);
+		}	
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "cht")) { //.cht file
+			icon = (u16*)(gImage_icon_cht);
+		}		
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "rts")) { //.rts file
+			icon = (u16*)(gImage_icon_sav);
+		}	
 		else if (!strcasecmp(&(pfilename[strlen8 - 2]), "mb")) { //PogoShell Plugin/Multiboot image
-			icon = (u16*)(gImage_icon_EXE);
+			icon = (u16*)(gImage_icon_plug);
 		}
 		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "mbz")) { //Compressed PogoShell Plugin
-			icon = (u16*)(gImage_icon_EXE);
+			icon = (u16*)(gImage_icon_plug);
 		}
 		else if (!strcasecmp(&(pfilename[strlen8 - 4]), "mbap")) { //Compressed PogoShell Plugin
-			icon = (u16*)(gImage_icon_EXE);
+			icon = (u16*)(gImage_icon_plug);
 		}
 		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "sms")) { //Master System
 			icon = (u16*)(gImage_icon_SMS);
@@ -409,11 +427,11 @@ void Show_ICON_filename_SD(u32 show_offset,u32 file_select,u32 haveThumbnail)
 		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "txt")) { //Text Document
 			icon = (u16*)(gImage_icon_TXT);
 		}
-		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "esv")) { //Fixes the bug with esv files looking like watara supervision
-			icon = (u16*)(gImage_icon_other/*gImage_icons+2*16*14*2*/);
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "esv")) { //Text Document
+			icon = (u16*)(gImage_icon_TXT);
 		}
-		else if (!strcasecmp(&(pfilename[strlen8 - 2]), "sv")) { //Watara Supervision
-			icon = (u16*)(gImage_icon_SV);
+		else if (!strcasecmp(&(pfilename[strlen8 - 3]), "sv")) { //Fixes the bug with esv files looking like watara supervision
+			icon = (u16*)(gImage_icon_other/*gImage_icons+2*16*14*2*/);
 		}
 		else if (!strcasecmp(&(pfilename[strlen8 - 2]), "ws")) { //Wonderswan
 			icon = (u16*)(gImage_icon_WS);
