@@ -2415,7 +2415,7 @@ int main(void) {
 	}*/
 		
 		
-	DrawPic((u16*)gImage_splash, 0, 0, 240, 160, 0, 0, 1);	
+	DrawPic((u16*)gImage_SPLASH, 0, 0, 240, 160, 0, 0, 1);	
 	CheckLanguage();	
 	CheckSwitch();
 
