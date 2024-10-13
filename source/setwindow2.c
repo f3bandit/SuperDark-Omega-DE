@@ -51,7 +51,7 @@ extern void CheckSwitch(void);
 {
 	
 	Clear(X+2, Y+2, 8, 8, gl_color_text, 1);
-	Clear(X+3, Y+3, 6, 6, RGB(4,8,12), 1);
+	Clear(X+3, Y+3, 6, 6, RGB(31,31,31), 1);
 	if(mode)
 		Clear(X+4, Y+4, 4, 4, gl_color_selected, 1);
 }*/

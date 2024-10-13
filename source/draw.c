@@ -226,7 +226,7 @@ void DEBUG_printf(const char *format, ...)
 void ShowbootProgress(char *str)
 {
     u8 str_len = strlen(str);
-    Clear(0,160-15,240,15,gl_color_cheat_black,1);
+    Clear(0,160-15,240,15,gl_color_text,1);
 	DrawHZText12(gl_loading_game,0,(240-strlen(gl_loading_game)*6)/2,72,0x7FFF,1);
     DrawHZText12(str,0,(240-str_len*6)/2,160-15,0x7FFF,1);
 }

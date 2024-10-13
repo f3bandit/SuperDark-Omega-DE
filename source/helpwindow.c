@@ -47,7 +47,7 @@ void Show_help_window()
 	DrawHZText12("L+Start:",0,3,65, gl_color_selected,1);
 		DrawHZText12(gl_LSTART_help,0,52,65, gl_color_text,1);	
 		
-	DrawHZText12(gl_online_manual,0,240-70-7,77, gl_color_text,1);
+	DrawHZText12(gl_online_manual,0,240-70-7,77, gl_color_selected,1);
 
 	DrawHZText12(gl_theme_credit, 0, 4, 90, gl_color_selected, 1);
 	DrawHZText12(gl_theme_credit2, 0, 4, 105, gl_color_selected, 1);
