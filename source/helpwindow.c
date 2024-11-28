@@ -11,8 +11,6 @@
 #include "draw.h"
 #include "Ezcard_OP.h"
 
-#include "version.h"  // Include the version.h file to get the kernel version
-
 
 
 extern u16 gl_select_lang;
@@ -20,9 +18,10 @@ extern u16 gl_select_lang;
 void Show_ver(void)
 {
 	char msg[20];
-	u16 FPGAver = Read_FPGA_ver();  // Read FPGA version
-	sprintf(msg, "FW:%d %s", FPGAver & 0xFF, KERNEL_VERSION);  // Use the kernel version from version.h
-	DrawHZText12(msg,0,160,3, gl_color_btn_clean,1);	// make Kernel and firmware text red
+	char *ver="K:1.05";
+	u16 FPGAver = Read_FPGA_ver();
+	sprintf(msg,"FW:%d %s",FPGAver&0xFF,ver);
+	DrawHZText12(msg,0,160,3, gl_color_text,1);	
 }
 //---------------------------------------------------------------------------------
 void Show_help_window()
@@ -48,7 +47,7 @@ void Show_help_window()
 	DrawHZText12("L+Start:",0,3,65, gl_color_selected,1);
 		DrawHZText12(gl_LSTART_help,0,52,65, gl_color_text,1);	
 		
-	DrawHZText12(gl_online_manual,0,240-70-7,77, gl_color_btn_clean,1); // make manual text red
+	DrawHZText12(gl_online_manual,0,240-70-7,77, gl_color_text,1);
 
 	DrawHZText12(gl_theme_credit, 0, 4, 90, gl_color_selected, 1);
 	DrawHZText12(gl_theme_credit2, 0, 4, 105, gl_color_selected, 1);
