@@ -86,3 +86,78 @@ helpwindow.c in sources folder
 
 Line 21
 char *ver="K:1.05";
+
+
+Ezcard_OP.c
+Line 535
+Clear(0, 0, 240, 160, RGB(0,18,24), 1);
+
+Change
+
+Line 535
+//Clear(0, 0, 240, 160, RGB(0,18,24), 1); BAK
+
+Line 536
+Clear(0, 0, 240, 160, RGB(31,0,0), 1);
+
+testing
+
+line 593 orininal
+sprintf(msg,"FIRMWARE UPDATE");
+DrawHZText12(msg,0,75,offset_Y+0*line_x, 0x7FFF,1); cyan
+
+sprintf(msg,"Please use the OFFICIAl kernel to");
+DrawHZText12(msg,0,2,offset_Y+3*line_x, 0x7FFF,1);
+
+sprintf(msg,"update firmware. Sorry.");
+DrawHZText12(msg,0,2,offset_Y+4*line_x, 0x7FFF,1);
+
+sprintf(msg,"Press (B) to skip.");
+DrawHZText12(msg,0,2,offset_Y+6*line_x, 0x7FFF,1);
+
+
+ezkernelnew.c
+
+
+Boot_NOR_game
+
+Line 2901 original
+Clear(0, 0, 240, 160, gl_color_cheat_black, 1);
+
+Change
+
+Line 2901
+//Clear(0, 0, 240, 160, gl_color_cheat_black, 1); BAK
+
+Line 2902
+ClearWithBG((u16*)gImage_SPLASH,0, 20, 240, 160-20, 1);
+
+Line 2903
+DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
+
+//WRITE TO NOR CLEAN
+
+Line 3481 original
+Clear(0,160-15,200,15,gl_color_cheat_black,1);
+
+Change
+
+Line 3481 
+//Clear(0,160-15,200,15,gl_color_cheat_black,1); BAK
+
+Line 3482
+ClearWithBG((u16*)gImage_SPLASH,0, 20, 240, 160-20, 1);
+
+//WRITE TO NOR ADDON
+
+Line 3522 original
+Clear(0,160-15,200,15,gl_color_cheat_black,1);
+
+change
+
+Line 3522
+//Clear(0,160-15,200,15,gl_color_cheat_black,1); BAK
+
+Line 3523
+
+
