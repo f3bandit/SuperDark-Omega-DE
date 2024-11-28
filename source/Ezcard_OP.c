@@ -532,7 +532,8 @@ void IWRAM_CODE Check_FW_update()
 	char msg[100];
 
 	//DEBUG_printf("Current_FW_ver %x ",Current_FW_ver);	
-	Clear(0, 0, 240, 160, RGB(10,10,10), 1);
+	//Clear(0, 0, 240, 160, RGB(0,18,24), 1); BAK
+	Clear(0, 0, 240, 160, RGB(31,0,0), 1);
 	
 	sprintf(msg,"FIRMWARE UPDATE");
 	DrawHZText12(msg,0,75,offset_Y+0*line_x, 0x7FFF,1);	
