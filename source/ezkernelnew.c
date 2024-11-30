@@ -2902,7 +2902,8 @@ void Boot_NOR_game(u32 show_offset,	u32 file_select,u32 key_L)
 	
 	//Clear(0, 0, 240, 160, gl_color_cheat_black, 1); BAK
 	ClearWithBG((u16*)gImage_SPLASH,0, 0, 240, 160, 1);
-	DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
+	// Not needed takken care of in draw.c
+	//DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
 
 	init_FAT_table();		
 	
@@ -3299,6 +3300,7 @@ re_show_menu:
 load_file:
 
 	ClearWithBG((u16*)gImage_SPLASH,0, 0, 240, 160, 1);
+	// Not needed takken care of in draw.c
 	//DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
 
 	u32 gamefilesize=0;
@@ -3483,7 +3485,8 @@ load_file:
 					//Clear(0,160-15,200,15,gl_color_cheat_black,1); BAK
 					
 					DrawPic((u16*)gImage_SPLASH, 0, 0, 240, 160, 0, 0, 1);
-					DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
+					// Not needed takken care of in draw.c
+					//DrawHZText12(gl_Loading,0,(240-strlen(gl_Loading)*6)/2,74, gl_color_text,1);
 					DrawHZText12(gl_NOR_full,0,0,160-15, gl_color_NORFULL,1);//"NOR FULL!"
 					wait_btn();	
 					return 1;

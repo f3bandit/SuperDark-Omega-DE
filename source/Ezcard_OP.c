@@ -536,7 +536,8 @@ void IWRAM_CODE Check_FW_update()
 	Clear(0, 0, 240, 160, RGB(31,0,0), 1);
 	
 	sprintf(msg,"FIRMWARE UPDATE");
-	DrawHZText12(msg,0,75,offset_Y+0*line_x, 0x7FFF,1);	
+	//DrawHZText12(msg,0,75,offset_Y+0*line_x, 0x7FFF,1);	
+	DrawHZText12(msg,0,2,offset_Y+6*line_x, 0xFFFF,1);
 	
 	u16 DEcard_FW_readver = Read_FPGA_ver();
 	u16 DEcard_FW_ver = DEcard_FW_readver & 0x00FF;
@@ -559,16 +560,20 @@ void IWRAM_CODE Check_FW_update()
 
 	if (updateFirmware) {
 		sprintf(msg,"Current firmware version: V%02d",DEcard_FW_readver);
-		DrawHZText12(msg,0,2,offset_Y+1*line_x, 0x7FFF,1);
+		//DrawHZText12(msg,0,2,offset_Y+1*line_x, 0x7FFF,1);
+		DrawHZText12(msg,0,2,offset_Y+6*line_x, 0xFFFF,1);
 
 		sprintf(msg,"Please use the OFFICIAl kernel to");
-		DrawHZText12(msg,0,2,offset_Y+3*line_x, 0x7FFF,1);
+		//DrawHZText12(msg,0,2,offset_Y+3*line_x, 0x7FFF,1);
+		DrawHZText12(msg,0,2,offset_Y+6*line_x, 0xFFFF,1);
 
 		sprintf(msg,"update firmware. Sorry.");
-		DrawHZText12(msg,0,2,offset_Y+4*line_x, 0x7FFF,1);
+		//DrawHZText12(msg,0,2,offset_Y+4*line_x, 0x7FFF,1);
+		DrawHZText12(msg,0,2,offset_Y+6*line_x, 0xFFFF,1);
 
 		sprintf(msg,"Press (B) to skip.");
-		DrawHZText12(msg,0,2,offset_Y+6*line_x, 0x7FFF,1);
+		//DrawHZText12(msg,0,2,offset_Y+6*line_x, 0x7FFF,1);
+		DrawHZText12(msg,0,2,offset_Y+6*line_x, 0xFFFF,1);
 
 		while(1)
 		{
