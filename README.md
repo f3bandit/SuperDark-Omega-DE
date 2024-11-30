@@ -136,6 +136,9 @@ _**YOU MUST USE THE OFFICIAL KERNEL TO UPDATE THE FIRMWARE :(**_
 5. Follow the installation instructions above.
 4. Update your flashcart and enjoy! :)
 
+*If you run into errors building this make sure the folder name is simple. devkitpro doesn't like weirdness. If you download this once and extract it to example super-dark-de-main it should run fine. 
+but if you have multiple zips downloaded and you extract one to super-dark-de-main(3) for example it will fail. just rename the folder to solve the issue.
+
 ### Special Greetz & Contributors:
 Sasq\
 Moonlight\
