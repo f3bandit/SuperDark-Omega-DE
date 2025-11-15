@@ -162,7 +162,7 @@ const char zh_formatnor_info[]="È·¶¨?´óÔ¼4·ÖÖÓ";
 const char zh_theme_credit[]="SuperDark-DE";
 const char zh_theme_credit2[]="f3bandit";
 const char zh_theme_credit3[]="Based on Simple DE";
-const char zh_theme_credit4[]="Sterophonick";
+const char zh_theme_credit4[]="Atapi/Sterophonic";
 
 const char zh_check_sav[]="¼ì²éSAVÎÄ¼þ";
 const char zh_make_sav[]="´´½¨SAVÎÄ¼þ";
@@ -293,7 +293,7 @@ const char en_formatnor_info2[]="This will take a while.";
 const char en_theme_credit[]="SuperDark-DE";
 const char en_theme_credit2[]="f3bandit";
 const char en_theme_credit3[]="based on Simple DE";
-const char en_theme_credit4[]="Sterophonick";
+const char en_theme_credit4[]="Atapi/Sterophonic";
 
 const char en_check_sav[]="Checking Save Data...";
 const char en_make_sav[] ="Creating Save Data...";
@@ -623,3 +623,4 @@ void LoadEnglish(void)
 	// For English, Use new font
 	ASC_DATA = (unsigned char*)ASC_DATA_NEW;
 }
+
