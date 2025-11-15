@@ -4,6 +4,7 @@ build
 *.gba
 *.elf
 *.bin
+*.sav
 *.exe
 *.zip
 *.jpg
